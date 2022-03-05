@@ -1,0 +1,64 @@
+			.titulomenu {
+			width: 900px;
+			text-align: Center;
+			height: 50px;
+			background-color: white;
+			color: black;
+			margin-top: 48px;
+			font-size: 24px;
+			font-family: tahoma;
+			border: 1px solid black;
+			padding-left: 400px;
+			padding-bottom: 25px
+		}
+				
+			.menus {
+				
+				width: 1300px;	
+				height: 1710px;
+				margin-left: 15px;
+				margin-right: 30px;
+				margin-top: 20px;
+			}
+
+			.sub1 {
+				display: flex;
+				justify-content: space-around;
+				font-family: Tahoma;
+				text-decoration: none;
+				background-color : white;
+				width: 99%;	
+				height: 275px;
+				border: 1px solid black;
+				margin-left: 9px;
+				margin-right: 0px;
+				margin-top : 8px;
+				margin-bottom: 8px;
+				border-radius:15px;
+				}
+				
+			.textodicas{
+				font-size: 20px;
+				margin-left: 20px;
+				text-align: justify;
+				padding-right: 10px;
+			}
+
+			
+			.imgesq img {
+			width: 312px;
+			height: 275px;
+			border-radius:15px 0px 0px 15px;
+
+			}
+			
+			.imgdir img {
+			width: 312px;
+			height: 275px;
+			border-radius:0px 15px 15px 0px;
+			}
+			
+
+			
+
+			

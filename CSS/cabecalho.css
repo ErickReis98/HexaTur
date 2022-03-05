@@ -1,0 +1,84 @@
+
+
+.menu-principal {
+width: 1328px;
+background-color:#016ea7;
+height: 150px;
+}
+
+main {
+margin: 0 auto;
+width: 1080px;
+position: relative;
+}
+
+.logo {
+padding: 35px;
+}
+
+.header-2 {
+background-color:#016ea7;
+width: 1328px;
+border-bottom: 3px solid #efefef;	
+}
+
+.menu ul li {
+display:inline-block;
+color:#ffffff;
+margin-left: 20px;
+position: relative;
+top: -48px;
+right:-135px;
+height: 40px;	
+	
+}
+
+.menu ul li:hover {
+border-bottom: 2px solid #3535ca;	
+}
+.menu ul li a:hover {	
+color: #3535ca;
+}
+
+.menu ul li a {
+color:#ffffff;
+text-decoration: none;
+font-size: 23px;
+
+	
+}
+
+.menu {
+width: 90%;
+float: left;	
+
+
+}
+
+.busca {
+	width: 25%;
+	float: right;
+	position: relative;
+	top: -115px;
+	right: -190px;
+}
+
+.busca input {
+background-image: url('./imagens/iconebuscar.png');
+background-repeat: no-repeat;
+background-position: 96%;
+width: 160px;	
+padding: 7px;	
+height: 25px;	
+border: 1px solid #c1bdbd; 
+}
+
+.logo img:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+00:09 18/04/2020
